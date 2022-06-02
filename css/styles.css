@@ -1,0 +1,10 @@
+#vote, #under-18 {
+  display: none;
+}
+.btn {
+  display: block;
+}
+
+#quote {
+  display: none;
+}
